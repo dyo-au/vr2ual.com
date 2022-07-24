@@ -6,6 +6,14 @@
 
 
 
+Lyrics:			
+Add to the hip hop lyrics sheet			
+Get google sheets lyrics sheet.			
+https://docs.google.com/spreadsheets/d/1kuDXUTZhB6L3F8uTL9K6iazk7p0lnF_r1mpBj4WZT7Q/edit#gid=685247153			
+
+
+
+
 https://twitter.com/maxkoin
 # Maxkoin.com 
 ## Lyrics/Works etc
