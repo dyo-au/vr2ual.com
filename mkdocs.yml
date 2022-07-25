@@ -1,7 +1,6 @@
 site_name: VR2ual.com
 theme:
   name: material
-  theme:
   logo: assets/logo-w.png
   favicon: /assets/images/favicon.png
   font:
